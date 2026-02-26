@@ -18,4 +18,5 @@ const people = {
     Timofey: 28
 };
 
-console.log(findOldestPerson(people)); // Вывод: Charlie
+
+console.log(findOldestPerson(people)); 
